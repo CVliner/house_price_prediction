@@ -17,8 +17,7 @@ def house_model():
     
     # Train your model for 1000 epochs by feeding the i/o tensors
     model.fit(xs, ys, epochs=1000)
-    
-    ### END CODE HERE
+
     return model
 
 """Now that you have a function that returns a compiled and trained model when invoked, use it to get the model to predict the price of houses: """
