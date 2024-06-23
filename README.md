@@ -1,4 +1,4 @@
-### Price Prediction with basic dense layers
+### Price prediction with basic dense layers
 
 In this project you'll try to build a neural network that predicts the price of a house according to a simple formula.
 
